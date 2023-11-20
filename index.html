@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de tareas</title>
+    <link rel="icon" href="./images/icon.png" />
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="todo-app">
+            <h2>Lista de Tareas <img src="./images/icon.png" alt=" "></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Añade una tarea">
+                <button onclick="addTask()">+</button>
+            </div>
+            <p class="paragraph" id="warningParagraph">Escribe algo</p>
+            <ul id="list-container">
+                <!-- <li class="checked">Task1</li>
+                <li>Task2</li>
+                <li>Task3</li> -->
+            </ul>
+        </div>
+    </div>
+
+
+    <script src="./script.js"></script>
+</body>
+</html>
