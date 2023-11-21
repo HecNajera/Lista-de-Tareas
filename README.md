@@ -17,6 +17,7 @@ Una lista de tareas simple y minimalista creada con HTML, CSS y JavaScript para 
 - **JavaScript:** Funcionalidades interactivas y manejo del almacenamiento local.
 
 ## Screenshots
+![image](https://github.com/HecNajera/Lista-de-Tareas/assets/123846479/12a34949-9937-4ab8-95ff-2459b7992c7c)
 
 
 ## Uso
